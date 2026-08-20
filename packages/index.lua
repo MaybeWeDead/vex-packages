@@ -329,6 +329,7 @@ return {
   { name = "tslib", version = "1.24", summary = "Touchscreen input library (libts), used by Qt 5 touch plugins" },
   { name = "twolame", version = "0.0.0", summary = "MPEG-2 AAC encoder library" },
   { name = "unibilium", version = "2.1.2", summary = "Library to parse terminal information (terminfo)" },
+  { name = "unimatrix", version = "master", summary = "Matrix-style digital rain for the terminal" },
   { name = "unzip", version = "6.0", summary = "InfoZIP extractor" },
   { name = "upower", version = "1.90.10", summary = "Power management daemon and tools" },
   { name = "util-macros", version = "1.20.2", summary = "X.Org Autoconf macros (build-time dependency)" },
