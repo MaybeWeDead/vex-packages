@@ -6,9 +6,7 @@ return {
   sha256  = "430e653843421b02e8d8140cf2ec838d9ca97351be0f9fae5b0fc99b76e7b4c9",
   deps    = {
     -- Core Mesa
-    "mesa",
-    "mesa-dri-gallium",
-    "mesa-gl",
+    "mesa-drivers",
     -- DRM userspace
     "libdrm",
     -- Vulkan
