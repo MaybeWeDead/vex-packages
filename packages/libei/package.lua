@@ -3,7 +3,7 @@ return {
   version = "1.6.0",
   summary = "Library for Emulated Input (libei + libeis)",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/libei/libei-1.6.0.tar.gz",
-  sha256  = "ce2e956f3dfec3e460bf680c07661f0760b3c66c56a318245cf14ff20668f549",
+  sha256  = "36ca737f08804490bd8268d93aa9aaf71e292f09e4c8ebe2a564c93166ceff06",
   deps    = { "xkbcommon", "seatd" },
   archive = { strip = 1 },
   test    = function(p)
