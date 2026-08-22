@@ -8,7 +8,7 @@ return {
     "aquamarine", "cairo", "glslang", "harfbuzz", "hyprcursor",
     "hyprgraphics", "hyprlang", "hyprland-protocols", "hyprutils",
     "hyprwayland-scanner", "hyprwire",
-    "libXcursor", "libdrm", "libinput", "lcms2", "lua",
+    "libXcursor", "libdrm", "libinput", "lcms2", "libzip", "lua",
     "muparser", "pango", "pixman", "re2", "tomlplusplus",
     "wayland", "wayland-protocols", "xkbcommon",
     "libglvnd", "mesa-drivers",

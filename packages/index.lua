@@ -213,6 +213,7 @@ return {
   { name = "libxshmfence", version = "1.3.3", summary = "X shared-memory fence sync primitives" },
   { name = "libxss", version = "1.2.3", summary = "X11 Screen Saver extension library" },
   { name = "libyaml", version = "0.2.5", summary = "YAML 1.1 parser and emitter library" },
+  { name = "libzip", version = "1.11.4", summary = "C library for reading, creating, and modifying zip archives" },
   { name = "libz", version = "1.3.2", summary = "Zlib compression library" },
   { name = "llvm-mingw", version = "20260616", summary = "LLVM/Clang/LLD based MinGW-w64 cross toolchain" },
   { name = "lm-sensors", version = "3.6.2", summary = "Hardware sensors monitoring library (libsensors)" },
