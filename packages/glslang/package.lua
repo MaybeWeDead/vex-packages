@@ -3,7 +3,7 @@ return {
   version = "1.4.357",
   summary = "GLSL/HLSL to SPIR-V compiler and validator",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/glslang/glslang-1.4.357.tar.gz",
-  sha256  = "440592d1bd7fead4d9b0d76925077414cd7855126bf0cb383c674de4d6654de6",
+  sha256  = "2daeb43d5321df85b14553c901a3f7d90de71d17af360caf96ecce1b69746464",
   deps    = {},
   archive = { strip = 1 },
   test    = function(p)
