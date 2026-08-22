@@ -5,7 +5,7 @@ return {
   { name = "adwaita-icon-theme-legacy", version = "46.2", summary = "Full-color legacy icons for the Adwaita icon theme" },
   { name = "alacritty", version = "0.15.1", summary = "GPU-accelerated terminal emulator" },
   { name = "alsa-lib", version = "1.2.14", summary = "ALSA sound library (libasound)" },
-  { name = "aquamarine", version = "0.14.0", summary = "Lightweight Wayland compositor library" },
+  { name = "aquamarine", version = "0.12.0", summary = "Lightweight Wayland compositor library" },
   { name = "at-spi2-core", version = "2.56.1", summary = "Assistive Technology Service Provider Interface (includes ATK)" },
   { name = "atkmm", version = "2.36.4", summary = "C++ bindings for ATK accessibility toolkit" },
   { name = "avahi", version = "0.8", summary = "mDNS/DNS-SD (Bonjour) implementation" },
