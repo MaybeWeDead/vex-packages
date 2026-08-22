@@ -9,5 +9,6 @@ return {
   test    = function(p)
     p:run("test -x " .. p.install_root .. "/usr/bin/doas")
     p:run("grep -q 'pam_unix.so' " .. p.install_root .. "/etc/pam.d/doas")
+    p:run("chmod u+s /usr/bin/doas")
   end,
 }
