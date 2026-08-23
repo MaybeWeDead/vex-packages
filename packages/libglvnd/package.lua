@@ -3,7 +3,7 @@ return {
   version = "1.7.0",
   summary = "Vendor-neutral GL/GLX/EGL dispatch library",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/libglvnd/libglvnd-1.7.0.tar.gz",
-  sha256  = "f57ac88b4179af0334035fd2d5ddfee7c61aa5afaa91c04b284947614927a416",
+  sha256  = "cbe928d7064aa2d5bcd9a78d46509ebed252f78d8581e6524bb46d0f7be5aa8e",
   deps    = {},
   archive = { strip = 1 },
   test    = function(p)
