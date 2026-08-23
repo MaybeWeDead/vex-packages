@@ -316,7 +316,7 @@ return {
   { name = "pango", version = "1.56.3", summary = "Text layout and rendering library" },
   { name = "pangomm", version = "2.54.0", summary = "C++ bindings for Pango" },
   { name = "pcmanfm-qt", version = "2.1.0", summary = "LXQt component (pcmanfm-qt)" },
-  { name = "pcre2", version = "10.45", summary = "Perl-compatible regular expression library v2" },
+  { name = "pcre2", version = "10.47", summary = "Perl-compatible regular expression library v2" },
   { name = "pinentry", version = "1.3.3", summary = "PIN or passphrase entry dialog for GnuPG" },
   { name = "pipewire", version = "1.6.8", summary = "Multimedia processing graph and audio/video daemon" },
   { name = "pixman", version = "0.46.4", summary = "Pixel manipulation library (low-level rendering primitives)" },
