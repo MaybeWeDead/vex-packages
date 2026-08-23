@@ -2,7 +2,7 @@ return {
   name = "neofetch",
   version = "7.1.0-vexos",
   summary = "Fast, highly customizable system info script",
-  url = "https://githubusercontent.com",
+  url = "https://raw.githubusercontent.com/MaybeWeDead/vex-packages/main/packages/neofetch/neofetch-7.1.0-vexos.tar.gz",
   sha256 = "6583a3dfecefbd9aaae10c8ceef235030e1d51e5bec2972848c9a2eaceb6ff08",
   deps = {},
   install = function(p)
