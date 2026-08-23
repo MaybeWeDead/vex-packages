@@ -1,9 +1,9 @@
 return {
   name    = "pcre2",
-  version = "10.45",
+  version = "10.47",
   summary = "Perl-compatible regular expression library v2",
-  url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/pcre2/pcre2-10.45.tar.gz",
-  sha256  = "d6709d989d346a96779d262c923bf58f66dadb02b3cea4003375628d2ad43f55",
+  url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/pcre2/pcre2-10.47.tar.gz",
+  sha256  = "0db41723ca26a684ae8cf4e9f3984009c58980da9fbd18f1f24470aca26306c7",
   deps    = {},
   archive = { strip = 1 },
   test    = function(p)
