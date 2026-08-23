@@ -1,5 +1,6 @@
 return {
   { name = "a52dec", version = "0.0.0", summary = "A52 (AC-3) audio decoder lib" },
+  { name = "abseil-cpp", version = "20260107", summary = "Google's Abseil C++ library" },
   { name = "acl", version = "1.1.2302", summary = "Access control list library" },
   { name = "adwaita-icon-theme", version = "50.0", summary = "Adwaita icon theme" },
   { name = "adwaita-icon-theme-legacy", version = "46.2", summary = "Full-color legacy icons for the Adwaita icon theme" },
