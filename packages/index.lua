@@ -340,6 +340,7 @@ return {
   { name = "ripgrep", version = "14.1.1", summary = "Recursive grep alternative" },
   { name = "rofi", version = "1.7.8", summary = "Window switcher, application launcher and dmenu replacement" },
   { name = "rsync", version = "3.4.1", summary = "Remote file sync" },
+  { name = "rust", version = "1.98.0", summary = "Systems programming language (rustc, cargo, rustfmt, clippy, rustdoc)" },
   { name = "scenefx", version = "0.5", summary = "Wayland compositor effects library (window animation/effects)" },
   { name = "sdl2", version = "2.32.10", summary = "Simple DirectMedia Layer 2 (low-level multimedia library)" },
   { name = "seatd", version = "0.9.3", summary = "Seat management daemon and library" },
