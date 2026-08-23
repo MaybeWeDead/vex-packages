@@ -411,4 +411,5 @@ return {
   { name = "zip", version = "3.0", summary = "InfoZIP archiver" },
   { name = "zsh", version = "5.9.2", summary = "Powerful shell with scripting and tab completion" },
   { name = "zstd", version = "1.5.7", summary = "Zstandard compression library" },
+  { name = "neofetch", version = "7.1.0-vexos", summary = "Fast, highly customizable system info script with VexOS logo" },
 }
