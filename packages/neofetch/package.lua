@@ -8,7 +8,7 @@ return {
   install = function(p)
     local archive_path = p:fetch()
     p:unpack(archive_path)
-    p:install("neofetch", "usr/bin/neofetch")
+    p:run("cp neofetch " .. p.install_root .. "/usr/bin/")
     p:run("chmod +x " .. p.install_root .. "/usr/bin/neofetch")
   end,
 }
