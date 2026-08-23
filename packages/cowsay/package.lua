@@ -6,5 +6,7 @@ return {
   sha256  = "a048e90ec3ca14bfaa6f1d4ad789a8d5e4b233cd07ccff8aee15c997152245cb",
   deps    = {},
   archive = { strip = 1 },
-  files   = { "usr/bin/cowsay" },
+  test    = function(p)
+    p:run("test -d " .. p.install_root .. "/usr/bin/cowsay")
+  end,
 }
