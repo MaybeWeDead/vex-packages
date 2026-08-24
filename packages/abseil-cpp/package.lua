@@ -3,7 +3,7 @@ return {
   version = "20260107",
   summary = "Google's Abseil C++ library (collection of C++ library code)",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/abseil-cpp/abseil-cpp-2601.tar.gz",
-  sha256  = "4416d388ab3cec6798b9bf5435d5f086bfc9fd1c83fb84e41d33190d8412d410",
+  sha256  = "3bfba22efca2f7a734e7bf935ef25827aea4523184482f9644377c53a58fc13f",
   deps    = {},
   archive = { strip = 1 },
   test    = function(p)

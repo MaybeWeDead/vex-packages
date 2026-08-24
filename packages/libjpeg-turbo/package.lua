@@ -1,9 +1,12 @@
 return {
   name    = "libjpeg-turbo",
-  version = "3.2.0",
-  summary = "MMX/SSE2/SMID accelerated library for manipulating JPEG images",
-  url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/libjpeg-turbo/libjpeg-turbo-3.2.0.tar.gz",
-  sha256  = "b86aaaa31f6340b2323ecb0d8cb0511f38608ecb89fb13272ee50e4c4d57d898",
+  version = "1.5.3",
+  summary = "MMX/SSE2/SMID accelerated library for JPEG images",
+  url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/libjpeg-turbo/libjpeg-turbo-1.5.3.tar.gz",
+  sha256  = "2e29b57d69c2f498cbb7de1c158501dc6baf9686965bcebe79307b126e64c89c",
   deps    = {},
   archive = { strip = 1 },
+  test    = function(p)
+    p:run("test -f " .. p.install_root .. "/usr/lib/libjpeg.so.62")
+  end,
 }

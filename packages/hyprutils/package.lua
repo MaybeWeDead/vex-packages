@@ -3,7 +3,7 @@ return {
   version = "0.14.0",
   summary = "Utility library for the Hypr ecosystem",
   url = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/hyprutils/hyprutils-0.14.0.tar.gz",
-  sha256 = "a0e38605ac8a4fca692e01f662aabc1fd7b7d99808849b979fe293e92ff09b7c",
+  sha256 = "a59387fb388f1796a15f047a41f12d5567f79911976856cae5cac8b105ea19a8",
   deps = { "pixman" },
   archive = { strip = 1 },
   test = function(p)
