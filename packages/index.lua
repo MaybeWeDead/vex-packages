@@ -253,6 +253,7 @@ return {
   { name = "lua51", version = "5.1.5", summary = "Lua 5.1 interpreter library" },
   { name = "luajit", version = "2.1.1785763465", summary = "Just-in-time compiler and drop-in replacement for Lua 5.1" },
   { name = "luv", version = "1.52.1-0", summary = "libuv bindings for LuaJIT" },
+  { name = "lxde", version = "0.1.0", summary = "LXDE desktop environment (meta-package)" },
   { name = "lxappearance", version = "0.6.4", summary = "LXDE GTK theme switcher" },
   { name = "lxmenu-data", version = "0.1.5", summary = "Freedesktop menu definitions for LXDE" },
   { name = "lxpanel", version = "0.10.1", summary = "LXDE desktop panel" },
